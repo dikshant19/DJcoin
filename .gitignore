@@ -1,0 +1,14 @@
+/node_modules
+/build
+/dist
+*.tar.gz
+npm-debug.log
+.DS_Store
+package-lock.json
+.npmrc
+/certificate
+coverage
+out
+docs
+/src/desktop/data
+.idea
