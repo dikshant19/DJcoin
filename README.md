@@ -1,2 +1,2 @@
-# Dcoin
+# DJcoin
 A blaokchain based cryptocurrency.
